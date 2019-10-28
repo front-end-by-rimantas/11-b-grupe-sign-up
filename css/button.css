@@ -9,4 +9,8 @@
     font-size: 20px;
     line-height: 20px;
     border-radius: 20px;
+    cursor: pointer;
 }
+    .btn:hover {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    }
